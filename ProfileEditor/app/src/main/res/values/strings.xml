@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProfileViewer</string>
+    <string name="ProfileInfoFile">ProfileInfoFile</string>
+    <string name="ProfileName">ProfileName</string>
+</resources>

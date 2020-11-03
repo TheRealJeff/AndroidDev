@@ -76,11 +76,12 @@ public class assignmentActivity extends AppCompatActivity {
 
         loadListView(course.getCourseID());
     }
-
+//Test comment
     /* Alternative loadListView with if statement as an assignment filter
     public void loadListView(){
         DatabaseHelper databaseHelper = new DatabaseHelper(this);
         List<Assignment> assignments = databaseHelper.getAllAssignments();
+
 
         ArrayList<String> assignmentsListText = new ArrayList<>();
 

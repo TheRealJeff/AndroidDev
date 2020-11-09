@@ -30,6 +30,7 @@ public class DatabaseHelper extends SQLiteOpenHelper {
     }
 
     //contains the queries to create the database tables
+    //test comment
     @Override
     public void onCreate(SQLiteDatabase sqLiteDatabase) {
 
